@@ -1,2 +1,2 @@
-# ml_refuerzo_jorge
-Proyecto de refuerzo ML - Multiclass
+# ml_refuerzo
+Proyecto de refuerzo ML. Clasificación Multi clase

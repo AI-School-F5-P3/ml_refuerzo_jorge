@@ -1,0 +1,5 @@
+dev_fabric/github_fabric_key.txt
+bak/*
+data/*
+mlruns/*
+dev_fabric/*
